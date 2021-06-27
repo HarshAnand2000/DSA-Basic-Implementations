@@ -1,2 +1,2 @@
 # DSA-Basic-Implementations
-In other branch(main), there is  basicimplementations of Data strcture & Algorithm with some basic questions.
+In other branch(master), there is  basicimplementations of Data strcture & Algorithm with some basic questions.
